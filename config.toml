@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://awesome-heyrovsky-4f183b.netlify.app"
 languageCode  = "en-us"
 title         = "Advertalia | Marketing Agency"
 theme         = "roxo"
